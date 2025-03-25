@@ -4,7 +4,7 @@ Welcome to my LeetCode Journey! This repository is where I document my progress,
 
 ## 📌 About
 - **Platform:** LeetCode
-- **Language:** Primarily Java (may explore other languages in the future)
+- **Language:** Primarily C (may explore other languages in the future)
 - **Focus Areas:** Algorithms, Data Structures, Problem-Solving Techniques
 
 ## 📁 Structure
