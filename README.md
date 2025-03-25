@@ -39,7 +39,7 @@ I will document key learnings and patterns identified along the way.
 Feedback and suggestions are welcome! Feel free to fork the repo, open issues, or create pull requests.
 
 ## 🏆 Let’s Connect
-- **GitHub:** [Peeyush1-lab](https://github.com/your-username)
+- **GitHub:** [Peeyush1-lab](https://github.com/Peeyush1-lab)
 - **LinkedIn:** [Peeyush Tiwari](https://www.linkedin.com/in/peeyush-tiwari-105b22323/)
 
 Happy Coding! 🚀
